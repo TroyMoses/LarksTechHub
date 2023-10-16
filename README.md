@@ -1,8 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## LARKS TECH HUB COMPANY WEBSITE.
+
+You are welcome to the Larks Tech Hub company website project. Larks Tech Hub is a tech company centered for providing most of the tech related services to clients. 
 
 ## Getting Started
 
-First, run the development server:
+- Fork the project repository.
+- Create a new branch for working on your particular section of the website.
+- Clone your repository onto your local machine.
+- Install the dependencies required using
+
+```npm install
+```
+
+- Run the development server:
 
 ```bash
 npm run dev
@@ -14,7 +24,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying the various pages. The pages auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
