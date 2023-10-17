@@ -25,6 +25,7 @@ export default function Home() {
                         </div>
                         <div className='text-2xl font-serif'>
                             <h1>LARKS TECH HUB</h1>
+                            <h1>COMPANY</h1>
                         </div>
                     </div>
 
